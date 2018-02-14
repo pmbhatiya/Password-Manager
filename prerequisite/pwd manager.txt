@@ -1,0 +1,3 @@
+Installed on System
+1) Python3
+2) Cryptography module
